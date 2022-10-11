@@ -38,16 +38,16 @@ Furthermore a couple of scripts are including, as a help to run the program as w
 To execute the program, run the following script:
 
 Linux/macOS with bash terminal:
-$ ./run.sh
+> $ ./run.sh
 
 Windows with PowerShell:
-> ./run.ps1
+> \> .\run.ps1
 
 # Run tests
 To execute the unit tests, run the following script:
 
 Linux/macOS with bash terminal:
-$ test.sh
+> $ ./test.sh
 
 Windows with PowerShell:
-> ./test.ps1
+> \> .\test.ps1
