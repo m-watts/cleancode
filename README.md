@@ -9,7 +9,7 @@ What you have to do:
   - Focus on best practices for naming and function definitions.
 - Write JavaDoc where relevant to document the functionality.
 - (Optional) Write unit tests to test the functionality as stated by the requirements.
-  - (Optional) Write the units tests using TDD (Test-Driven Design).
+  - (Optional) Write the units tests using TDD (Test-Driven Development).
 
 As you go along, you can run the program (Main.java) to get print-outs, which can help you confirm if the functionality is correct.
 
